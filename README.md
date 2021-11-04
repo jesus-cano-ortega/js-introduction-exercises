@@ -28,5 +28,5 @@ $ pip3 install flask && python3 server.py
 Para ejecutar el código javascript por terminal, utilizar el siguiente comando: 
 
 ```sh
-node nombre_archivos.js
+node nombre_archivo.js
 ```
