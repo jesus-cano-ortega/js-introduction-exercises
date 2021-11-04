@@ -1,4 +1,5 @@
-# ![GitHub Logo] (/img/face.png)
+# ![4Geeks Logo](https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/img/face.png) HTML Hello
+
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
