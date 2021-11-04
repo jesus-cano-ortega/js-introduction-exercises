@@ -1,4 +1,4 @@
-# ![4Geeks Logo] <img src="https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/img/face.png" width="100"> HTML Hello
+# <img src="https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/img/face.png" width="100"> HTML Hello
 
 
 
