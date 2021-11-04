@@ -1,4 +1,6 @@
-# ![4Geeks Logo](https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/img/face.png =x100) HTML Hello
+# ![4Geeks Logo](https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/img/face.png) HTML Hello
+
+![test image size]<img src="https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/img/face.png" width="400" height="790">
 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
